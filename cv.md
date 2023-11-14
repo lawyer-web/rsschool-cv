@@ -17,3 +17,13 @@ I am purposeful, persistent, and achieve my goals. I know how to work in a team,
 * JavaScript (Basic)
 * Bootstrap
 * Git
+##Code Example
+**********
+```
+function multiply(a, b){
+ return a * b
+}
+
+multiply()
+
+```
