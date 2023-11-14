@@ -27,3 +27,11 @@ function multiply(a, b){
 multiply()
 
 ```
+##Experience
+**********
+##Education
+**********
+* ***University***: National Law Academy in Kharkov
+* ***Courses***: 
+  * HTML Academy
+  * WebCademy
